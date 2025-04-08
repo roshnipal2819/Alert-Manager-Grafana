@@ -20,7 +20,7 @@ It’s designed especially for **Data Engineers** who want to:
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 - Docker Desktop (with Kubernetes enabled)
 - `kubectl` CLI
