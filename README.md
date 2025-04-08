@@ -1,4 +1,4 @@
-## Alertmanager + Prometheus + Grafana Setup in Kubernetes (for Data Engineers)
+## Alertmanager + Prometheus + Grafana Setup in Kubernetes
 
 This project helps you set up a complete **monitoring and alerting system** using:
 
