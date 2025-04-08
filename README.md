@@ -12,7 +12,7 @@ It’s designed especially for **Data Engineers** who want to:
 - Get real-time email alerts when pods crash or restart
 - Visualize metrics and health of their Kubernetes cluster
 
-## 📖 Blog Post
+## Blog Post
 
 📝 For a full step-by-step guide with explanations and visuals, check out my article:  
 👉 [**Monitoring Pipelines with Prometheus, Grafana & Kubernetes in Docker**](https://medium.com/@palroshni43/monitoring-pipelines-with-prometheus-grafana-kubernetes-in-docker-7e0b1a61c618)
